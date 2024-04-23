@@ -1,1 +1,17 @@
-
+:root {
+    --branco-principal: #830133;
+    --cinza-secundario: #000000;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #3a5300;
+}
+.principal {
+    background-image: url("img/Background.png");
+}
+.container {
+    height: 100vh;
+}
+.principal {
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
